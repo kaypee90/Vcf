@@ -1,7 +1,9 @@
 BEGIN:VCARD
 VERSION:4.0
-FN:John Doe
-N:Doe;John;;;
-EMAIL;TYPE=work:jdee@mail.com
-TEL;TYPE=work:6478909881
+FN:Seth Obo
+N:Obo;Seth;;;
+EMAIL;TYPE=work:oboseth@gmail.com
+TEL;TYPE=work:9055659200
+TEL;TYPE=cell:6477179450
+TEL;TYPE=fax:9055656677
 END:VCARD
